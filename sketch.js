@@ -6,11 +6,16 @@ function setup(){
 }
 
   function draw(){
-    background(random(120,100), random(0,80), 180);
+    background(30, random(0, 100), 155, 10);
+    strokeWeight(5);
+    noFill();
+    stroke(0, 120, 70)
     circle(mouseX+90, mouseY-90, mouseX);
-    fill(0, 20, 50);
-    rect(mouseX,mouseY,100,100);
+
+    strokeWeight(1);
+    stroke(0, 120, 70)
     fill(mouseY, 50, 80);
+    rect(mouseX,mouseY,100,100);
   }
 
-  //Tarea
+  //Tarea hacer un cursor diferente
