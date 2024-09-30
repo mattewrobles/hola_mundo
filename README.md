@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PROYECTO HOLA MUNDO
 
 ## Primer proyecto de *P5.js*
@@ -19,3 +20,9 @@ Para hacer un rectángulo uso la función `rect()` de la siguiente manera:
 ```js
   rect(200, 200, 30, 30);
   ```
+=======
+# PROYECTO HOLA MUNDO P5.JS
+Hola, este es mi proyecto en p5.js, para el desarrollo se utilizó la librería min de p5.js. El proyecto consta de generar un objeto con Java script que siga el recorrido del mouse en el monitor.
+## Detallles
+Versión 0.01
+>>>>>>> origin/main
